@@ -1,4 +1,5 @@
 ## Hi there 👋
+![image](https://share.icloud.com/photos/03282MewqOSdgVxMhbJOtFe6Q)
 
 - 👩‍🎓 I'm currently a frontend developer stundent
 - 🥇 Just finished my first year
