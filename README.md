@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![image](C4EACC51-4922-43D4-8BD0-44888473B512.PNG)
+![image](banner.jpg)
 
 - 👩‍🎓 I'm currently a frontend developer stundent
 - 🥇 Just finished my first year
