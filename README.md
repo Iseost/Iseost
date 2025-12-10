@@ -1,5 +1,6 @@
 ## Hi there 👋
-![image](https://share.icloud.com/photos/03282MewqOSdgVxMhbJOtFe6Q)
+
+![image](C4EACC51-4922-43D4-8BD0-44888473B512.PNG)
 
 - 👩‍🎓 I'm currently a frontend developer stundent
 - 🥇 Just finished my first year
@@ -7,12 +8,10 @@
 - ❤️ I fell in love with coding because it allows me to create amazing things from just a few lines of code.
 - 📫 Reach me here: www.linkedin.com/in/iselin-østerhus-engen-767b46284
 
-
 ## Fun facts 🫶
 
-- 🧝 I'm a huge LOTR fan! 
+- 🧝 I'm a huge LOTR fan!
 - 🐈 I love cats - especially orange
 - 🍰 I love to bake
 - 🏗️ I love build lego
 - ☕ It's not a good idea to talk to me before my morning coffee
-
