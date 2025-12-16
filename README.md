@@ -32,4 +32,5 @@ I love transforming ideas and designs into functional, user-friendly experiences
 
 ## Connect
 
-- 📫 Reach me here: www.linkedin.com/in/iselin-østerhus-engen-767b46284
+- 📫 Reach me here ![LinkeIn](www.linkedin.com/in/iselin-østerhus-engen-767b46284)
+- My ![Portfolio](https://pov-2-ljm1ksm6r-iselins-projects-bec53b89.vercel.app/)
